@@ -6,7 +6,6 @@ The objective was to identify system and employee information relevant to IT ope
 
 The tasks involved working with sample database tables like `machines` and `employees` to perform data extraction and filtering using the **`WHERE`** clause and **`LIKE`** operator.
 
----
 
 ## Tasks Overview
 
